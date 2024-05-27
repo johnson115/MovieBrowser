@@ -1,3 +1,7 @@
+# the interface :
+
+![Screenshot (40)](https://github.com/johnson115/MovieBrowser/assets/60323853/de63bde4-5fc0-4780-8525-9501c517f00f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
